@@ -68,6 +68,7 @@ Cloud Storage:
 Начальное состояние (MVP)
 Нагрузка: 3 000 диалогов/мес
 <img width="856" height="249" alt="image" src="https://github.com/user-attachments/assets/fa6af4b0-3252-4eca-b41f-7736417c3a34" />
+
 Тестирование с партнерами
 Нагрузка: 300 000 диалогов/мес
 <img width="854" height="457" alt="image" src="https://github.com/user-attachments/assets/64b4a4dd-9f89-4301-96a8-867dfcd6917a" />
